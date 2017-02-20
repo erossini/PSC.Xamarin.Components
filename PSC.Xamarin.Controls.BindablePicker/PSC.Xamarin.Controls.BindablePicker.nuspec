@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>PSC.Xamarin.Controls.BindablePicker</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Enrico Rossini</authors>
+    <owners>Enrico Rossini</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://www.puresourcecode.com/page/psc-xamarin-controls-bindablepicker-component</projectUrl>
+    <iconUrl>http://www.puresourcecode.com/image.axd?picture=/NuGet/NuGetPackagePSC.PNG</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Upate control to Profile259</description>
+    <releaseNotes>Bindable Picker for Xamarin Forms</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>xamarin forms bindable picker</tags>
+  </metadata>
+</package>

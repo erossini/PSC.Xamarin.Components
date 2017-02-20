@@ -1,0 +1,17 @@
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\PSC.Xamarin.Controls.EnumBindablePicker.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\PSC.Xamarin.Controls.EnumBindablePicker.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Core.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Platform.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Core.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Core.xml
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\obj\Release\PSC.Xamarin.Controls.EnumBindablePicker.csprojResolveAssemblyReference.cache
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\obj\Release\PSC.Xamarin.Controls.EnumBindablePicker.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\obj\Release\PSC.Xamarin.Controls.EnumBindablePicker.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\obj\Release\PSC.Xamarin.Controls.EnumBindablePicker.dll.mdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\PSC.Xamarin.Controls.EnumBindablePicker.dll.mdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\obj\Release\PSC.Xamarin.Controls.EnumBindablePicker.dll.mdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.EnumBindablePicker\bin\Release\PSC.Xamarin.Controls.EnumBindablePicker.dll.mdb

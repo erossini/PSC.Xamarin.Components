@@ -1,0 +1,14 @@
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\PSC.Xamarin.Controls.BindablePicker.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\PSC.Xamarin.Controls.BindablePicker.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Core.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Platform.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Core.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Core.xml
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\obj\Release\PSC.Xamarin.Controls.BindablePicker.dll
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\obj\Release\PSC.Xamarin.Controls.BindablePicker.pdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\obj\Release\PSC.Xamarin.Controls.BindablePicker.dll.mdb
+C:\Projects\Portico.myInventories\PSC.Xamarin.Controls.BindablePicker\bin\Release\PSC.Xamarin.Controls.BindablePicker.dll.mdb
